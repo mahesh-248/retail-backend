@@ -1,4 +1,3 @@
-from app import app
 import pyodbc
 from flask import jsonify, request, send_file
 from datetime import datetime
